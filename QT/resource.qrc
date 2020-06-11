@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>resource root/labalogo.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>resource root/bed.wav</file>
+        <file>resource root/five.wav</file>
+        <file>resource root/four.wav</file>
+        <file>resource root/labalogo.jpg</file>
+        <file>resource root/one.wav</file>
+        <file>resource root/six.wav</file>
+        <file>resource root/three.wav</file>
+        <file>resource root/two.wav</file>
+        <file>resource root/zero.wav</file>
+    </qresource>
+</RCC>
